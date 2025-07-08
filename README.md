@@ -4,7 +4,7 @@ This project analyzes real-world e-commerce transaction data to uncover customer
 
 ##  Dataset
 
-The dataset used is the [UCI Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail), which contains all transactions from a UK-based online store over 1 year (2010).
+The dataset used is the UCI Online Retail Dataset(https://archive.ics.uci.edu/ml/datasets/Online+Retail), It is available in google.
 ##  Key Features  :-)
 
 ###  RFM Analysis
